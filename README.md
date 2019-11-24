@@ -1,3 +1,16 @@
+# Description of Project
+##Project Idea: 
+Web App which will utilizes Google Maps to allow users to identify “haunted” areas based on the presence of Ghosts, Wraiths, Skeletons, Mothmen, Nerds, and any customizable label they want. 
+##Project Scope:  
+Ghoul App will have the following main features:
+- Always display google maps: in homepage view (to log in and sign up), in user profile view before, while and after a marker has been created by user.
+- Provide: 
+Login/sign up to account option for user.
+Exploration of different areas using google maps’ API.
+Creation of new marker on specific area on google maps.
+
+## To see the final presentation of this project go to the "Ghoul Alert Final Presentation" file. 
+
 # SoftwareEngineering
 Software Engineering Project
 
